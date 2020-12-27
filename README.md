@@ -5,7 +5,6 @@ And I am gonna push out public repos soon 😳
 
 __**Currently working on:**__\
 •Bot Ace (CS:GO Discord Bot) - Utlizes Steam API\
-•MonkeyBot (Awesome Multi-purpose Bot) - Made with Eris\
 •Other small projects
 
 new account moment
