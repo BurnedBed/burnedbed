@@ -1,5 +1,5 @@
 # Hello ~~World~~
-just a random dude that programs ¯\\_(ツ)_/¯
+just a random dude that programs ¯\\\_(ツ)\_/¯
 
 ## Languages I love
 - JavaScript (Node.js)
