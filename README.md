@@ -1,4 +1,4 @@
-# Hello ~~World~~
+# Hello ~~World~~ xd
 just a random dude that programs ¯\\\_(ツ)\_/¯
 
 ## Languages I love
