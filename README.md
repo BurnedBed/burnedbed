@@ -7,4 +7,4 @@ just a random dude that programs ¯\\\_(ツ)\_/¯
 - Rust :)
 
 ## Projects
-None I am willing to display right now.
+hmmm
